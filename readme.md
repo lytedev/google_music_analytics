@@ -12,7 +12,7 @@ A simple python script for those curious about their music listening habits.
 Copy `auth.example.py` to `auth.py` and change the details inside to match your
 own.
 
-Run the `get_data.py` script. This will cache all retrieved data as it runs for
+Run the `data_manager.py` script. This will cache all retrieved data as it runs for
 analyses by other scripts.
 
 Once you have the data, you're set! Write your own scripts to flip through the
