@@ -1,0 +1,4 @@
+auth.py
+*.json
+*.pyc
+__pycache__/*
